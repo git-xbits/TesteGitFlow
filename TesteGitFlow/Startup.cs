@@ -22,7 +22,8 @@ namespace TesteGitFlow
 
         public IConfiguration Configuration { get; }
         
-        //Essa � uma linha de teste
+        //Essa é uma linha de teste
+        //Esta linha vai gerar um conflíto
 
         //Essa linha entrou no branch feature/nome_feature
         
