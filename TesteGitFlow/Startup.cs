@@ -22,8 +22,8 @@ namespace TesteGitFlow
 
         public IConfiguration Configuration { get; }
         
-        //Essa � uma linha de teste
-        
+        //Essa é uma linha de teste
+        //Esta linha vai gerar um conflíto
         // This method gets called by the runtime. Use this method to add services to the container.
 
         public void ConfigureServices(IServiceCollection services)
