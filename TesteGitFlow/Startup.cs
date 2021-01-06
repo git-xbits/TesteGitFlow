@@ -23,6 +23,8 @@ namespace TesteGitFlow
         public IConfiguration Configuration { get; }
         
         //Essa é uma linha de teste
+
+        //Essa linha entrou no branch feature/nome_feature
         
         // This method gets called by the runtime. Use this method to add services to the container.
 
